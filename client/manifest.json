@@ -1,0 +1,7 @@
+{
+  "name": "WRRCMeatGrinder",
+  "short_name": "WRRCMeatGrinder",
+  "description": "Retro Grinder app for community dances",
+  "start_url": "/",
+  "display": "standalone"
+}
